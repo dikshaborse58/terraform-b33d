@@ -1,4 +1,4 @@
 provider "aws" {
-  region = "us-west-2"
-  profile = "dev"
+  region = "us-east-1"
+  profile = "default"
 }
